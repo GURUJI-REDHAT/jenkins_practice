@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Guruji Hello bolte!!"
+echo "Guruji Hello bolte lala!!"
